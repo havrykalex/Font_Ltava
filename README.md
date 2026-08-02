@@ -1,5 +1,5 @@
 <p align="center">
-![Лтава](brand/"hero-banner.png")
+![Лтава](hero-banner.png)
 </p>
 
 <h1 align="center">Ltava</h1>
