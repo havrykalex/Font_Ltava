@@ -1,6 +1,6 @@
-<p align="center">
+
 ![](hero-banner.png)
-</p>
+
 
 <h1 align="center">Ltava</h1>
 
