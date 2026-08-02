@@ -1,5 +1,5 @@
 <p align="center">
-  <img ="brand/hero-banner.png" alt="Ltava">
+  img ="brand/hero-banner.png" alt="Ltava"
 </p>
 
 <h1 align="center">Ltava</h1>
