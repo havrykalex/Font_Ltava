@@ -1,4 +1,4 @@
-![](brand/hero-banner.png)
+
 
 <h1 align="center">Ltava</h1>
 
