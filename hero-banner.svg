@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FAFAF8"/>
+<text x="100" y="220" font-family="Ltava, sans-serif" font-size="150" fill="#1A1A1A">Ltava</text>
+<line x1="100" y1="275" x2="620" y2="275" stroke="#2F5D9F" stroke-width="3"/>
+<text x="100" y="335" font-family="Ltava, sans-serif" font-size="38" fill="#4F4F4F">Modern Ukrainian Humanist Sans</text>
+<text x="100" y="430" font-family="Ltava, sans-serif" font-size="38" fill="#1A1A1A">Aa Бб Ґґ Її 0123456789</text>
+<text x="100" y="840" font-family="Ltava, sans-serif" font-size="28" fill="#4F4F4F">Readable • Friendly • Contemporary</text>
+</svg>
