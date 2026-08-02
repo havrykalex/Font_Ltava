@@ -1,3 +1,5 @@
+<h1 align="center">Ltava</h1>
+
 <p align="center">
   <img src="brand/hero-banner.png" alt="Ltava">
 </p>
