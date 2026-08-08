@@ -12,3 +12,4 @@ Modern Ukrainian Humanist Sans
 Readable • Friendly • Contemporary
 </p>
 
+![](Demo-Ltava-0.9.7.png)
